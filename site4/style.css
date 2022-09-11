@@ -1,0 +1,29 @@
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.text {
+    width: 200px;
+    text-align: left;
+}
+.text2 {
+    border: 2px inset #C4C4C4;
+    background-color: #C4C4C4;
+    width: 150px;
+    color: #F09595;
+    height: 40px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.img {
+    width: 300px;
+}
+.f {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    width: 100vw;
+    height: 100vh;
+}
